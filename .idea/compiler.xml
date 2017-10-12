@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="DesignPatterns_main" target="1.6" />
+      <module name="DesignPatterns_test" target="1.6" />
+      <module name="Kt03_main" target="1.5" />
+      <module name="Kt03_test" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
